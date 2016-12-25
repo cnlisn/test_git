@@ -3,6 +3,9 @@ package com.lisn.test_git;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 测试一下
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
